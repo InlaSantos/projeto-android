@@ -191,7 +191,7 @@ footer{
 }
 
 footer a{
-    color: var(--cor2);
+    color: var(--cor5);
     text-decoration: none;
     font-weight:bold
 }
