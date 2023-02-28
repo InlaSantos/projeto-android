@@ -108,6 +108,10 @@ main h2{
     
 }
 
+main img{
+    width: 100%;
+}
+
 main img.meio{
     max-width: 350px;
     display: block;
